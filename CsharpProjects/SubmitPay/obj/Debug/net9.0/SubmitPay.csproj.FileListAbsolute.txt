@@ -1,0 +1,14 @@
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\bin\Debug\net9.0\SubmitPay.exe
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\bin\Debug\net9.0\SubmitPay.deps.json
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\bin\Debug\net9.0\SubmitPay.runtimeconfig.json
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\bin\Debug\net9.0\SubmitPay.dll
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\bin\Debug\net9.0\SubmitPay.pdb
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.AssemblyInfoInputs.cache
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.AssemblyInfo.cs
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.csproj.CoreCompileInputs.cache
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.dll
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\refint\SubmitPay.dll
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.pdb
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\SubmitPay.genruntimeconfig.cache
+C:\Users\d.mirzoeva\Desktop\c#\SubmitPay\CsharpProjects\SubmitPay\obj\Debug\net9.0\ref\SubmitPay.dll
